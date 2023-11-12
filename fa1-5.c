@@ -62,7 +62,7 @@ int FirstVersion()
 
         if (answer == correctAnswer)
         {
-            printf("Yay! (◠‿◠) You got it right! Friendship status: Confirmed! Thanks for believing in me.\nYou only needed %d attempts!\n", attempts + 1);
+            printf("Yay! (◠‿◠) You got it right! Friendship status:\033[32m Confirmed!\033[0m\nThanks for believing in me. You only needed %d attempts!\n", attempts + 1);
             return 0;
         }
 

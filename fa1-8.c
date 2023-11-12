@@ -15,6 +15,7 @@ int main()
     return 0;
 }
 
+/* 2-nd version */
 int SecondVersion() 
 {
     int countK = 0, countC = 0, i = 0; 
