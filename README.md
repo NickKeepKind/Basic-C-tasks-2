@@ -8,7 +8,7 @@
 
 🏷️ **Project Category**: I.E.K Kastoria Study.
 
-📝 **Project Description**: An introduction to the simple functions and tasks of the C programming language.
+📝 **Project Description**: A continue of introduction to the simple functions and tasks of the C programming language.
 
 ⌨️ **IDE used:** Visual Studio Code
 
